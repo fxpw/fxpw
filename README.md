@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Im Anton Koshel
 ### and i use to coding Lua,JS 🤔
-### u can ask me about AddOns for World of Warcraft or anoter things for WOW 😄
+### u can ask me about AddOns for World of Warcraft or another things for WOW 😄
 ### for contacts use: discord fxpw#9990
 ### if you want support me -> qiwi.com/n/FXPWS
 

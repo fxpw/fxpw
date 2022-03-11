@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Im Anton Koshel
+### and i use to coding Lua,JS 🤔
+### u can ask me about AddOns for World of Warcraft or anoter things for WOW 😄
+### for contacts use: discord fxpw#9990
+### if you want support me -> qiwi.com/n/FXPWS
 
 <!--
 **fxpw/fxpw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

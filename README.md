@@ -2,6 +2,7 @@
 ### Im Anton Koshel
 ### and i use to coding Lua,JS 🤔
 ### u can ask me about AddOns for World of Warcraft or another things for WOW 😄
+[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 ### for contacts use: discord fxpw#9990
 ### if you want support me -> qiwi.com/n/FXPWS
 

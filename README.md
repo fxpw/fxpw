@@ -1,6 +1,6 @@
  Hi there 👋
  Im Anton Koshel
- and i use to coding Lua and JS 🤔,
+ and i use to coding Lua and С++ 🤔,
  u can ask me about AddOns for World of Warcraft or another things for WOW 😄
 [![](https://github.com/fxpw/fxpw/blob/main/img/T-RexChromeDinoGame.gif)](https://chromedino.com)
  #### for contacts use: discord fxpw#9990

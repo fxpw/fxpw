@@ -1,7 +1,7 @@
   #### Hi there 👋
   #### I use to coding Lua and С++ 🤔, u can ask me about AddOns for World of Warcraft or another things for WOW 😄
 [![](https://github.com/fxpw/fxpw/blob/main/img/T-RexChromeDinoGame.gif)](https://chromedino.com)
- #### for contacts use: discord fxpw#0096
+ #### for contacts use: discord fxpw#0096 or email fxpw@outlook.com
  #### if you want support me -> qiwi.com/n/FXPWS
 
 <!--

@@ -1,5 +1,5 @@
   #### Hi there, me name is Anton 👋
-  #### I use to coding JS, Lua, C++, C# 🤔
+  #### I use to coding C++, C#, JS, Lua, Python 🤔
 [![](https://github.com/fxpw/fxpw/blob/main/img/T-RexChromeDinoGame.gif)](https://chromedino.com)
  #### for contacts use: Discord @fxpw or EMail fxpw@outlook.com
  #### if you want support me -> qiwi.com/n/FXPWS

@@ -1,8 +1,10 @@
   #### Hi there, me name is Anton 👋
   #### I use to coding C++, C#, JS, Lua, Python 🤔
 [![](https://github.com/fxpw/fxpw/blob/main/img/T-RexChromeDinoGame.gif)](https://chromedino.com)
- #### For contacts -> Discord @fxpw or EMail fxpw@outlook.com
- #### If you want support me -> qiwi.com/n/FXPWS
+ #### Contacts
+ - Discord https://discordapp.com/users/fxpw
+ - EMail fxpw@outlook.com
+ #### If you want support me or my projects use qiwi.com/n/FXPWS
 
 <!--
 **fxpw/fxpw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

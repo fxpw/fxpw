@@ -1,6 +1,6 @@
 #### Hi there, me name is Anton 👋
 #### I use to coding C++, C#, JS, Lua, Python 🤔
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true)
+![fxpw's Github stats](https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true)
 <!--[![](https://github.com/fxpw/fxpw/blob/main/img/T-RexChromeDinoGame.gif)](https://chromedino.com)-->
 #### Contacts
  - Discord https://discordapp.com/users/fxpw

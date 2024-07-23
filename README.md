@@ -4,13 +4,16 @@
 [![](https://github.com/fxpw/fxpw/blob/main/img/code.gif)](https://chromedino.com)
 
 #### Stats
-<a>
-    <img src="https://streak-stats.demolab.com?user=fxpw&theme=dark&ring=EBAF2D&background=000000&currStreakLabel=EBAF2D" alt="GitHub Streak" width="400" height="200"/>
-</a>
-<a>
-    <img src="https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats" width="400" height="200"/>
-</a>
+<div style="display: flex; justify-content: space-between;">
+    <a style="width: 50%;">
+        <img src="https://streak-stats.demolab.com?user=fxpw&theme=dark&ring=EBAF2D&background=000000&currStreakLabel=EBAF2D" alt="GitHub Streak" width="400"/>
+    </a>
+    <a style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats" width="400"/>
+    </a>
+</div>
 
+![](https://komarev.com/ghpvc/?username=fxpw&color=green)
 #### Contacts
  - Discord https://discordapp.com/users/fxpw
  - EMail fxpw@outlook.com

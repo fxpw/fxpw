@@ -5,7 +5,7 @@
 
 #### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=fxpw&theme=dark&ring=EB7F4C)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=vision-friendly-dark)
 #### Contacts
  - Discord https://discordapp.com/users/fxpw
  - EMail fxpw@outlook.com

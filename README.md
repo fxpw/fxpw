@@ -12,7 +12,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats" style="width: 100%;  object-fit: cover;"/>
     </a>
 </div>
-
 ![](https://komarev.com/ghpvc/?username=fxpw&color=green)
 #### Contacts
  - Discord https://discordapp.com/users/fxpw

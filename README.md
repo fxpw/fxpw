@@ -8,7 +8,9 @@
     <a style="width: 45%;">
         <img src="https://streak-stats.demolab.com?user=fxpw&theme=dark&ring=EBAF2D&background=000000&currStreakLabel=EBAF2D" alt="GitHub Streak" style="width: 100%; object-fit: cover;"/>
     </a>
-   
+    <a style="width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats" style="width: 100%;  object-fit: cover;"/>
+    </a>
 </div>
 
 

@@ -3,19 +3,12 @@
 
 [![](https://github.com/fxpw/fxpw/blob/main/img/code.gif)](https://chromedino.com)
 
-#### Stats
-<div style="display: flex; justify-content: space-between;">
-    <a style="width: 45%;">
-        <img src="https://streak-stats.demolab.com?user=fxpw&theme=dark&ring=EBAF2D&background=000000&currStreakLabel=EBAF2D" alt="GitHub Streak" style="width: 100%; object-fit: cover;"/>
-    </a>
-    <a style="width: 45%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=fxpw&show_icons=true&theme=vision-friendly-dark&hide_title=true" alt="Anurag's GitHub stats" style="width: 100%;  object-fit: cover;"/>
-    </a>
-</div>
-
 
 ![](https://komarev.com/ghpvc/?username=fxpw&color=green)
 #### Contacts
  - Discord https://discordapp.com/users/fxpw
  - EMail fxpw@outlook.com
  - Telegram [t.me/fx_pw](https://t.me/fx_pw)
+
+
+![Metrics](https://metrics.lecoq.io/fxpw?template=classic&base.community=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Europe%2FMinsk)

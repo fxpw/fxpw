@@ -27,10 +27,13 @@ jobs:
           # Options
           user: fxpw
           template: classic
-          base: header, activity, repositories
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_display: large
           config_octicon: yes
           config_timezone: Europe/Minsk
           config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          repositories_batch: 300
+          repositories_forks: yes

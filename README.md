@@ -1,4 +1,4 @@
-#### Hi there, me name is Anton 👋
+#### Hi there, mу name is Anton 👋
 [![](https://github.com/fxpw/fxpw/blob/main/img/code.gif)](https://chromedino.com)
 
 #### Contacts

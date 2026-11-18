@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: fxpw/metrics@6568e4357b789ff502b4b40ef2a018a4ae22d853 # fix/repository-pagination
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -23,6 +23,9 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Keep manual branch previews on their own branch.
+          committer_branch: ${{ github.ref_name }}
 
           # Options
           user: fxpw
@@ -35,5 +38,7 @@ jobs:
           config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          repositories_batch: 300
+          # Total limit and per-query size are separate options (GitHub allows at most 100 per query).
+          repositories: 1000
+          repositories_batch: 25
           repositories_forks: yes

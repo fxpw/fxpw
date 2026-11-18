@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: fxpw/metrics@af9425442b1962738f018321ef847272859af0e1 # fix/repository-pagination
+      - uses: fxpw/metrics@6568e4357b789ff502b4b40ef2a018a4ae22d853 # fix/repository-pagination
         with:
           # Your GitHub token
           # The following scopes are required:
